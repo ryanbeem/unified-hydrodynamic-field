@@ -3,7 +3,7 @@
 **Scale-Invariant Continuum Mechanics of Trapped Phase Action and Sub-Hadronic Solitons**
 
 **Author:** Ryan L. Beem  
-**Preprint DOI:** [10.21203/rs.3.rs-10469081](https://doi.org/10.21203/rs.3.rs-10469081)  
+**Preprint DOI:** [10.21203/rs.3.rs-10469081/v1](https://doi.org/10.21203/rs.3.rs-10469081/v1)
 **Status:** Master Draft (v38)
 
 ---
